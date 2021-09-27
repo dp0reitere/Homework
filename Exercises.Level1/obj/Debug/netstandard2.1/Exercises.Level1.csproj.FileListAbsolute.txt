@@ -1,0 +1,10 @@
+C:\Users\marts\Downloads\Exercises-main\Exercises-main\Exercises\Level1\Exercises.Level1\bin\Debug\netstandard2.1\Exercises.Level1.deps.json
+C:\Users\marts\Downloads\Exercises-main\Exercises-main\Exercises\Level1\Exercises.Level1\bin\Debug\netstandard2.1\Exercises.Level1.dll
+C:\Users\marts\Downloads\Exercises-main\Exercises-main\Exercises\Level1\Exercises.Level1\bin\Debug\netstandard2.1\Exercises.Level1.pdb
+C:\Users\marts\Downloads\Exercises-main\Exercises-main\Exercises\Level1\Exercises.Level1\obj\Debug\netstandard2.1\Exercises.Level1.csproj.AssemblyReference.cache
+C:\Users\marts\Downloads\Exercises-main\Exercises-main\Exercises\Level1\Exercises.Level1\obj\Debug\netstandard2.1\Exercises.Level1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marts\Downloads\Exercises-main\Exercises-main\Exercises\Level1\Exercises.Level1\obj\Debug\netstandard2.1\Exercises.Level1.AssemblyInfoInputs.cache
+C:\Users\marts\Downloads\Exercises-main\Exercises-main\Exercises\Level1\Exercises.Level1\obj\Debug\netstandard2.1\Exercises.Level1.AssemblyInfo.cs
+C:\Users\marts\Downloads\Exercises-main\Exercises-main\Exercises\Level1\Exercises.Level1\obj\Debug\netstandard2.1\Exercises.Level1.csproj.CoreCompileInputs.cache
+C:\Users\marts\Downloads\Exercises-main\Exercises-main\Exercises\Level1\Exercises.Level1\obj\Debug\netstandard2.1\Exercises.Level1.dll
+C:\Users\marts\Downloads\Exercises-main\Exercises-main\Exercises\Level1\Exercises.Level1\obj\Debug\netstandard2.1\Exercises.Level1.pdb
